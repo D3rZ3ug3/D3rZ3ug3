@@ -2,4 +2,4 @@
 
 - 17 years old
 - Austrian student
-- I ♥ Tailwind
+- I ♥ Tailwind, Crème brûlée and Next.js
